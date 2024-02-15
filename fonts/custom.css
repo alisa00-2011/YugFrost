@@ -1662,3 +1662,11 @@
 .stock_empty{
   color:red;
 }
+.product_2_col_text{
+  font-weight: 500;
+}
+
+.tab_content,
+.tab_content_title{
+  font-weight: 500;
+}
